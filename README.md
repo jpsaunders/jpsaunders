@@ -2,7 +2,13 @@
 #### Network Engineering Professional
 My focus in on virtual networks and network automation.
 
-Skills: IOS / JUNOS / PYTHON / ANSIBLE / BASH / HTML
+## Skills and Experience
+- 🐍 Python
+- 📉 Ansible
+- 💻 BASH
+- 💻 HTML
+- IOS
+- JUNOS
 
 - 🔭 I’m currently working on Cisco Application Centric Infrastructure
  
