@@ -12,7 +12,7 @@ My focus in on virtual networks and network automation.
 
 - 🔭 I’m currently working on Cisco Application Centric Infrastructure
  
-- 🌱 I’m currently learning Python and Ansible 
+- 🌱 I’m currently learning Python, Ansible and Nornir 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsaunders&layout=compact&theme=dark)
