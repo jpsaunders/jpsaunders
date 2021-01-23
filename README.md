@@ -15,7 +15,7 @@ My focus in on virtual networks and network automation.
 - 🌱 I’m currently learning Python, Ansible and Nornir 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsaunders&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsaunders&langs_count=8theme=midnight-purple)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jpsaunders&show_icons=true&theme=midnight-purple)
 
