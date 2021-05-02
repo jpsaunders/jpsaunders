@@ -13,7 +13,3 @@ My focus in on virtual networks and network automation.
 - 🔭 I’m currently working on Cisco Application Centric Infrastructure
  
 - 🌱 I’m currently learning Python, Ansible and Nornir 
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jpsaunders&show_icons=true&theme=midnight-purple)
-
